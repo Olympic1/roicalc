@@ -834,6 +834,22 @@
   {
     "type": "ProjectAutomata.Recipe",
     "object": {
+      "name": "Easter Eggs",
+      "displayName": "Easter Eggs",
+      "description": "Easter Eggs (ProjectAutomata.Recipe)",
+      "gameDays": 45,
+      "excludeInRecipeGraph": false,
+      "waterResources": false,
+      "requiredModules": [],
+      "ingredients": [{ "productName": "Paint", "amount": 1 }, { "productName": "Plastic", "amount": 2 }],
+      "result": [{ "productName": "Easter Eggs", "amount": 2 }],
+      "tier": 3,
+      "svgIcon": "recipe-easter-eggs-small"
+    }
+  },
+  {
+    "type": "ProjectAutomata.Recipe",
+    "object": {
       "name": "Engine Block",
       "displayName": "Блок двигателя",
       "description": "Engine Block (ProjectAutomata.Recipe)",

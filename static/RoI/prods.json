@@ -744,6 +744,20 @@
   {
     "type": "ProjectAutomata.ProductDefinition",
     "object": {
+      "name": "Easter Eggs",
+      "displayName": "Easter Eggs",
+      "category": "",
+      "productCategory": "",
+      "endGameProduct": false,
+      "disableContracts": false,
+      "svgIcon": "recipe-easter-eggs-small",
+      "tags": [ "Toy" ],
+      "price": "(ingredientsValue + ((upkeep / 30) * recipeDays)) / recipeOutput"
+    }
+  },
+  {
+    "type": "ProjectAutomata.ProductDefinition",
+    "object": {
       "name": "Engine Block",
       "displayName": "Блок двигателя",
       "category": "",

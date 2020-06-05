@@ -1418,7 +1418,7 @@
     "constructionBarIcon": "ui-building-factory-toy (UnityEngine.Sprite)",
     "buildingPanelHeaderImage": "bldg-bg-title-fac-toys (UnityEngine.Sprite)",
     "tags": [ "Factory", "Industrial", "Recipe User" ],
-    "availableRecipes": [ "Fluff", "Toy Furniture", "WoodenTrain", "Toy Train Set", "Doll", "TeddyBear", "Marbles", "Dollhouse" ],
+    "availableRecipes": [ "Fluff", "Toy Furniture", "WoodenTrain", "Toy Train Set", "Doll", "TeddyBear", "Easter Eggs", "Marbles", "Dollhouse" ],
     "upkeep": {
       "monthlyUpkeep": "buildingCost * 0.025",
       "minUpkeep": 0.25,
