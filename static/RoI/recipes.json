@@ -837,7 +837,7 @@
       "name": "Easter Eggs",
       "displayName": "Easter Eggs",
       "description": "Easter Eggs (ProjectAutomata.Recipe)",
-      "gameDays": 45,
+      "gameDays": 40,
       "excludeInRecipeGraph": false,
       "waterResources": false,
       "requiredModules": [],
